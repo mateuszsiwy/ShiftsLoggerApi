@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShiftsLoggerApi", "ShiftsLoggerApi\ShiftsLoggerApi.csproj", "{CBF3917D-E894-43D5-A95E-44D27FDCB8D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShiftsLoggerUI", "ShiftsLoggerUI\ShiftsLoggerUI.csproj", "{85C2A863-6FA2-4FBF-B41C-BDC2DD57A365}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBF3917D-E894-43D5-A95E-44D27FDCB8D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBF3917D-E894-43D5-A95E-44D27FDCB8D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBF3917D-E894-43D5-A95E-44D27FDCB8D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBF3917D-E894-43D5-A95E-44D27FDCB8D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85C2A863-6FA2-4FBF-B41C-BDC2DD57A365}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85C2A863-6FA2-4FBF-B41C-BDC2DD57A365}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85C2A863-6FA2-4FBF-B41C-BDC2DD57A365}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85C2A863-6FA2-4FBF-B41C-BDC2DD57A365}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4F82762-B99A-4B6C-A534-7FDD47184F46}
+	EndGlobalSection
+EndGlobal
